@@ -86,3 +86,4 @@ GROUP BY CustomerName ORDER BY total_spent DESC;
 
 
 
+
